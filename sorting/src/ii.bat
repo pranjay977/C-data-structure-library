@@ -1,0 +1,2 @@
+notepad cc.bat
+

@@ -1,0 +1,1 @@
+gcc eg1.c -o eg1.exe -I ..\include -I ..\..\array\include -I ..\..\common\include  -L ..\..\array\lib -L ..\lib -l heaplib -l arraylib

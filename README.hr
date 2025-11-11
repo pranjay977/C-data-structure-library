@@ -1,0 +1,6 @@
+This project is a generic data structures library implemented in C. It provides efficient and reusable
+implementations of common data structures, starting with a Singly Linked List. The goal is to offer a
+clean and easy-to-use . Developers can use these data structures into their c-based projects without worrying about
+the internal details I structured the project into separate folders for declarations (include),
+implementations (src), compiled libraries (lib), and test cases (testcases) to keep things organized
+and professional
