@@ -1,0 +1,4 @@
+to test any functionality while standing in testcases folder
+gcc nameoffile.c -o nameoffile.exe -I ..\include -L ..\lib l slllib
+// to run 
+nameoffile
