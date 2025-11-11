@@ -1,1 +1,0 @@
-gcc pj2.c -o pj2.exe -I ..\..\singlyLinkedList\include -I ..\..\stack\include -I ..\..\queue\include -I ..\..\avlTree\include -I ..\..\Pair\include -L ..\..\singlyLinkedList\lib -L ..\..\stack\lib -L ..\..\queue\lib -L ..\..\avlTree\lib -l avllib -l stacklib -l queuelib -l slllib
